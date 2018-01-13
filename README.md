@@ -1,5 +1,5 @@
 
-# Webtrees Custom Module: OpenStreetMap
+# Webtrees Custom Module: ⚶ OpenStreetMap
 
 This is a [webtrees](https://www.webtrees.net/) custom module. 
 The project’s website is [cissee.de](https://cissee.de). 
@@ -22,7 +22,7 @@ Location data is obtained directly from the gedcom, and may also be provided by 
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.3
+* Current version: 1.7.9.4
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'personal_facts_with_hooks' module.
 * Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
@@ -38,7 +38,7 @@ Location data is obtained directly from the gedcom, and may also be provided by 
 ### License<a name="license"/>
 
 * **openstreetmap_hooked: a webtrees custom module**
-* Copyright (C) 2017 Richard Cissée
+* Copyright (C) 2017 to 2018 Richard Cissée
 
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **openstreetmap** - Copyright (C) 2017 Derek Kniffin. See file 'LICENSE' for additional permission notice.
