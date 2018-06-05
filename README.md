@@ -14,11 +14,11 @@ The original module is on [github](https://github.com/dkniffin/webtrees-openstre
 
 ### Features<a name="features"/>
 
-* This custom module displays location data via OpenStreetMap tiles and leaflet.
+* This custom module displays location data via OpenStreetMap tiles and the Leaflet library (v1.3.1, plus Leaflet.markercluster v1.3.0).
 
 ![Screenshot](screenshot.png)
 
-* Location data is obtained directly from the gedcom, and may also be provided by other custom modules via the 'hPlacesGetLatLon' hook. 
+* Location data is obtained directly from gedcom data, and may also be provided by other custom modules via the 'hPlacesGetLatLon' hook. 
 
 * The direct dependency to the Google Maps module has been removed. If you have collected location data via the Google Maps module, simply activate the 'Google Maps Module Location Data Provider' custom module to make this data available.
 
@@ -28,7 +28,7 @@ The original module is on [github](https://github.com/dkniffin/webtrees-openstre
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.6
+* Current version: 1.7.9.7
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
 * Requires the 'vesta_common_lib' module.
@@ -48,8 +48,11 @@ The original module is on [github](https://github.com/dkniffin/webtrees-openstre
 * Copyright (C) 2017 to 2018 Richard Cissée
 
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
+* Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * Derived from **openstreetmap** - Copyright (C) 2017 Derek Kniffin. See file 'LICENSE' for additional permission notice.
-
+* Derived from **Leaflet** - Copyright (c) 2010-2017, Vladimir Agafonkin; Copyright (c) 2010-2011, CloudMade. See file 'LICENSE' for additional permission notice.
+* Derived from **Leaflet.markercluster** - Copyright (C) 2012 David Leaver. See file 'LICENSE' for additional permission notice.
+* French translations provided by Pierre Dousselin.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
