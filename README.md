@@ -5,6 +5,8 @@ This is a [webtrees](https://www.webtrees.net/) custom module.
 The project’s website is [cissee.de](https://cissee.de). 
 The original module is on [github](https://github.com/dkniffin/webtrees-openstreetmap).
 
+This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its webtrees 2.x counterpart, see [here](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map).
+
 ## Contents
 
 * [Features](#features)
@@ -28,13 +30,13 @@ The original module is on [github](https://github.com/dkniffin/webtrees-openstre
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.10.1
-* Based on and tested with webtrees 1.7.10, may also work with older 1.7.x versions.
+* Current version: 1.7.13.1
+* Based on and tested with webtrees 1.7.13, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
 * Requires the 'vesta_common_lib' module.
 * Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
-* Issues also via <https://github.com/ric2016/openstreetmap_hooked/issues>
+* Issues also via <https://github.com/ric2016/openstreetmap_hooked/issues>. Note that new features will only be implemented in the 2.x versions though.
 
 ### Installation
 
@@ -45,7 +47,7 @@ The original module is on [github](https://github.com/dkniffin/webtrees-openstre
 ### License<a name="license"/>
 
 * **openstreetmap_hooked: a webtrees custom module**
-* Copyright (C) 2017 to 2018 Richard Cissée
+* Copyright (C) 2017 to 2019 Richard Cissée
 
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
