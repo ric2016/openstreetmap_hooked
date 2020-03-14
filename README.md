@@ -30,13 +30,13 @@ This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its web
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.13.1
-* Based on and tested with webtrees 1.7.13, may also work with older 1.7.x versions.
+* Current version: 1.7.16.1
+* Based on and tested with webtrees 1.7.16, may also work with older 1.7.x versions. Cannot be used with webtrees 2.x. 
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
 * Requires the 'vesta_common_lib' module.
 * Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
-* Issues also via <https://github.com/ric2016/openstreetmap_hooked/issues>. Note that new features will only be implemented in the 2.x versions though.
+* Issues also via <https://github.com/ric2016/openstreetmap_hooked/issues>
 
 ### Installation
 
@@ -47,7 +47,7 @@ This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its web
 ### License<a name="license"/>
 
 * **openstreetmap_hooked: a webtrees custom module**
-* Copyright (C) 2017 to 2019 Richard Cissée
+* Copyright (C) 2017 to 2020 Richard Cissée
 
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
@@ -55,6 +55,7 @@ This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its web
 * Derived from **Leaflet** - Copyright (c) 2010-2017, Vladimir Agafonkin; Copyright (c) 2010-2011, CloudMade. See file 'LICENSE' for additional permission notice.
 * Derived from **Leaflet.markercluster** - Copyright (C) 2012 David Leaver. See file 'LICENSE' for additional permission notice.
 * French translations provided by Pierre Dousselin.
+* Dutch translations provided by geetsce.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
