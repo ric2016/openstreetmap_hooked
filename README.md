@@ -34,7 +34,7 @@ This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its web
 * Based on and tested with webtrees 1.7.16, may also work with older 1.7.x versions. Cannot be used with webtrees 2.x. 
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
 * Requires the 'vesta_common_lib' module.
-* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
+* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.legacy.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
 * Issues also via <https://github.com/ric2016/openstreetmap_hooked/issues>
 
